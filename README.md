@@ -99,7 +99,7 @@ https://developers.google.com/gmail/api/quickstart/python
 `chatwork_send_message(room_id, msg_format)`
 
 ### 機密情報ファイルDownload
-* 下記のファイルをGoogleドライブからダウンロード
-token.json
-credentials.json
+* 下記のファイルをGoogleドライブからダウンロード  
+token.json  
+credentials.json  
 config.py

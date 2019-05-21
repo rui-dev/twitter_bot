@@ -97,3 +97,9 @@ https://developers.google.com/gmail/api/quickstart/python
 ### Chatwork APIを利用してchatで結果を報告
 * 下記の関数を利用  
 `chatwork_send_message(room_id, msg_format)`
+
+### 機密情報ファイルDownload
+* 下記のファイルをGoogleドライブからダウンロード
+token.json
+credentials.json
+config.py

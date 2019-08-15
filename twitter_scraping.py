@@ -12,8 +12,6 @@ driver = webdriver.Chrome()
 driver.maximize_window()
 
 # ログイン・パスワード
-# username = 'catw_bull'
-# password = 'rn4eQhCu'
 username = config.TWITTER_ID
 password = config.TWITTER_PW
 
